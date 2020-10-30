@@ -3,7 +3,7 @@
     
         "post0": {
             "title": "First blog post",
-            "content": "",
+            "content": "My name is Nawid Keshtmand. I am currently doing a PhD in Robotics at the University of Bristol. My area of research is in the area of contrastive self-supervised learning. . The aim of the blog is to write about areas of Machine Learning or Deep Learning that I desire to learn more about as I have teaching is one of the best ways to learn about. I intend to write about areas of probabilistic machine learning and perhaps short summaries on papers that I read in my spare time. Hopefully others will benefit from this blog. .",
             "url": "https://nerdk312.github.io/Nerds-blog/jupyter/2020/10/30/My-First-Post.html",
             "relUrl": "/jupyter/2020/10/30/My-First-Post.html",
             "date": " • Oct 30, 2020"
